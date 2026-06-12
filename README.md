@@ -41,7 +41,7 @@ Results
 
 ### Host Discovery
 
-![Host Discovery](screenshots//host-discovery.jpg)
+![Host Discovery](screenshots/host-discovery.jpg)
 
 ### Port Scanning
 
