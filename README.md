@@ -41,7 +41,7 @@ Results
 
 ### Host Discovery
 
-![Host Discovery](host-discovery.jpg)
+![Host Discovery](screenshots//host-discovery.jpg)
 
 ### Port Scanning
 
@@ -49,15 +49,15 @@ Results
 
 ### Service Enumeration
 
-![Service Enumeration](service-enumeration.jpg)
+![Service Enumeration](screenshots/service-enumeration.jpg)
 
 ### Operating System Detection
 
-![OS Detection](os-detection.jpg)
+![OS Detection](screenshots/os-detection.jpg)
 
 ### Scan Results
 
-![Scan Results](scan-results.jpg)
+![Scan Results](screenshots/scan-results.jpg)
 
 ## Disclaimer
 
