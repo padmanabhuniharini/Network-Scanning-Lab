@@ -45,7 +45,7 @@ Results
 
 ### Port Scanning
 
-![Port Scan](port-scan.jpg)
+![Port Scan](screenshots/port-scan.jpg)
 
 ### Service Enumeration
 
